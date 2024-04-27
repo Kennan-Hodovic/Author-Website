@@ -1,0 +1,83 @@
+/******* BODY *******/
+
+body {
+    color: white;
+    font-family: Helvetica Neue, Helvetica, Arial;
+    margin: 0;
+    padding: 0;
+}
+
+
+/******* HEADER *******/
+
+header {
+    background: black;
+    background-position: center;
+    height: 70px;
+    padding: 20px;
+    text-align: center;
+}
+
+header a {
+    color: white;
+    margin-top: 30px;
+    text-decoration: None;
+    text-transform: uppercase;
+}
+
+header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    display: inline-block; /*Puts them into a row instead of column*/
+    margin-right: 20px;
+    margin-top: 60px;
+}
+
+header li:hover {
+    text-decoration: underline;
+}
+
+
+/******* Introduction *******/
+
+.Introduction_Title {
+    background: white;
+    color: black;
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+.Introduction_Body {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+    line-height: 1.3;
+}
+
+.Introduction_Body figure figcaption {
+    text-indent: -99999999px;
+}
+
+.Introduction_Body figure img {
+    padding-right: 50px;
+    width: 50%;
+}
+
+
+/******* FOOTER *******/
+
+footer {
+    background: black;
+    bottom: 0;
+    box-sizing: border-box;
+    color: white;
+    margin-left: -300px;
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
