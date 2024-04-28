@@ -11,7 +11,8 @@ Internal Changes
 
 Documentation
 =============
--
+- Remove footer (ISSUE: Write The Home & About Sections).
+- Fill in Home and About Sections (ISSUE: Write The Home & About Sections).
 
 Bug Fixes
 =========
