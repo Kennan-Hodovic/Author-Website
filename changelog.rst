@@ -11,6 +11,7 @@ Internal Changes
 
 Documentation
 =============
+- Fill in Books Section (ISSUE: Write The Books Section).
 - Remove footer (ISSUE: Write The Home & About Sections).
 - Fill in Home and About Sections (ISSUE: Write The Home & About Sections).
 
