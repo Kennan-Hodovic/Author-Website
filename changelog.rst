@@ -11,6 +11,7 @@ Internal Changes
 
 Documentation
 =============
+- Fill in Online Library Section (ISSUE: Add Sample Chapters For Online Library Section)
 - Fill in Books Section (ISSUE: Write The Books Section).
 - Remove footer (ISSUE: Write The Home & About Sections).
 - Fill in Home and About Sections (ISSUE: Write The Home & About Sections).
