@@ -116,6 +116,11 @@ header li:hover {
 }
 
 /* Logos */
+.About_Body a {
+    text-decoration: none;
+    display: inline-block;
+}
+
 .About_Body figure.IG_Logo img {
     display: flex;
     height: auto;
