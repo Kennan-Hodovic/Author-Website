@@ -97,8 +97,8 @@ header li:hover {
     display: flex;
     height: auto;
     width: auto;
-    max-width: 250px;
-    max-height: 250px;
+    max-width: 260px;
+    max-height: 260px;
     position: absolute;
     left: 30px;
     top: 200px;
@@ -107,9 +107,9 @@ header li:hover {
 .About_Body figure figcaption {
     position: absolute;
     left: 30px;
-    top: 450px;
+    top: 460px;
     height: 30px;
-    width: 203px;
+    width: 202px;
     filter: alpha(opacity = 80);
     background: rgba(0, 0, 0, 0.729);
     padding: 10px !important;
@@ -128,7 +128,7 @@ header li:hover {
     max-width: 75px;
     max-height: 75px;
     left: 30px;
-    top: 426px;
+    top: 436px;
 }
 
 .About_Body figure.Threads_Logo img {
@@ -138,7 +138,7 @@ header li:hover {
     max-width: 40px;
     max-height: 40px;
     left: 121px;
-    top: 455px;
+    top: 465px;
 }
 
 .About_Body figure.Facebook_Logo img {
@@ -148,7 +148,7 @@ header li:hover {
     max-width: 60px;
     max-height: 60px;
     left: 180px;
-    top: 445px;
+    top: 455px;
 }
 
 
