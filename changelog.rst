@@ -3,15 +3,17 @@
 
 New Features
 ============
+- Add links to socials in logos (ISSUE: Add Social Links).
 - Make the header sticky (ISSUE: Create The First Blog).
 - Create initial website template and add related files (ISSUE: Create Initial Website).
 
 Internal Changes
 ================
--
+- Update book genre and tab names (ISSUE: Add Social Links).
 
 Documentation
 =============
+- Add new author about photo (ISSUE: Add Social Links).
 - Add icon images for eventual links to socials (ISSUE: Create The First Blog).
 - Remove the Reviews Section (ISSUE: Create The First Blog).
 - Fill in the Blogs Section (ISSUE: Create The First Blog).
