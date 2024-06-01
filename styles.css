@@ -60,6 +60,19 @@ header li:hover {
     }
 }
 
+@media only screen and (max-width: 350px) {
+
+    header {
+        padding: 0px;
+        padding-bottom: 8px;
+    }
+
+    header li {
+        font-size: 10px;
+        margin-right: 10px;
+    }
+}
+
 
 /******* Introduction *******/
 
@@ -198,85 +211,51 @@ header li:hover {
 
 /******* Books *******/
 
-.DGS_Title {
+.DGS_Books h1 {
     background: white;
     color: black;
-    font-size: 20px;
+    font-size: 30px;
     text-align: center;
+}
+
+.DGS_Books section {
+    display: flex;
+    flex-direction: row;
+    background: white;
+    color: black;
+}
+
+.DGS_Books figure img {
+    max-width: 500px;
+    max-height: 500px;
+    position: relative;
+}
+
+.DGS_Books figure figcaption {
+    font-size: 25px;
+    text-indent: 0px;
+    position: relative;
+    bottom: 540px;
+}
+
+.DGS_Books figure a {
+    font-size: 20px;
+    text-indent: 0px;
+    position: relative;
+    top: -20px;
 }
 
 /* Sins of Ash */
 .Sins_of_Ash_Body {
-    display: flex;
-    flex-direction: row;
     font-size: 20px;
     line-height: 1.3;
-    margin-left: 500px;
+    margin-right: 50px;
     text-align: left;
-}
-
-.Sins_of_Ash_Body figure img {
-    display: flex;
-    height: auto; 
-    width: auto; 
-    max-width: 500px; 
-    max-height: 500px;
-    position: absolute;
-    left: 50px;
-    top: 230px;
-}
-
-.Sins_of_Ash_Body figure figcaption {
-    font-size: 25px;
-    text-indent: 0px;
-    position: absolute;
-    left: 50px;
-    top: 190px;
-}
-
-.Sins_of_Ash_Body figure a {
-    font-size: 20px;
-    text-indent: 0px;
-    position: absolute;
-    left: 50px;
-    top: 740px;
 }
 
 /* Tears of Thunder */
 .Tears_of_Thunder_Body {
-    display: flex;
-    flex-direction: row;
-    font-size: 20px;
-    line-height: 1.3;
-    margin-left: 500px;
-    text-align: left;
-}
-
-.Tears_of_Thunder_Body figure img {
-    display: flex;
-    height: auto; 
-    width: auto; 
-    max-width: 500px; 
-    max-height: 500px;
-    position: absolute;
-    left: 50px;
-    top: 930px;
-}
-
-.Tears_of_Thunder_Body figure figcaption {
-    font-size: 25px;
-    text-indent: 0px;
-    position: absolute;
-    left: 50px;
-    top: 890px;
-}
-
-.Tears_of_Thunder_Body figure a {
-    font-size: 20px;
-    text-indent: 0px;
-    position: absolute;
-    left: 50px;
-    top: 1440px;
+    margin-right: 50px;
 }
 
 .Tears_of_Thunder_Body details {
@@ -286,6 +265,45 @@ header li:hover {
 .Tears_of_Thunder_Body details summary {
     background-color: lightgray;
     padding: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+
+    .DGS_Books h1 {
+        font-size: 10px;
+    }
+
+    .DGS_Books figure img {
+        max-width: 150px;
+        max-height: 150px;
+    }
+
+    .Sins_of_Ash_Cover figure figcaption {
+        font-size: 10px;
+        bottom: 170px;
+    }
+
+    .Sins_of_Ash_Cover figure a {
+        font-size: 10px;
+    }
+
+    .Sins_of_Ash_Body {
+        font-size: 8px;
+    }
+
+    .Tears_of_Thunder_Cover figure figcaption {
+        font-size: 9px;
+        bottom: 170px;
+    }
+
+    .Tears_of_Thunder_Cover figure a {
+        font-size: 9px;
+    }
+
+    .Tears_of_Thunder_Body {
+        font-size: 8px;
+    }
+
 }
 
 
