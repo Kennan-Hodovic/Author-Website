@@ -568,9 +568,35 @@ header li:hover {
     word-break: break-word;
     white-space: normal;
     margin-left: 200px;
-    width: 1100px;
+    max-width: 1100px;
+    width: auto;
 }
 
 .Blog_Contents p a{
     text-decoration: none;
+}
+
+@media only screen and (max-width: 800px) {
+
+    .Blog_Header {
+        margin: 40px 0px 0px 50px;
+    }
+
+    .Blog_Header figure img {
+        max-width: 250px;
+        max-height: 200px;
+    }
+
+    .Blog_Contents p {
+        margin: 30px;
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+
+    .Blog_Contents p {
+        margin-right: 90px;
+    }
+
 }
