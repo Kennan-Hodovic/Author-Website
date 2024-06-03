@@ -3,6 +3,7 @@
 
 New Features
 ============
+- Make website compatible with various screen sizes (ISSUE: Make Website Compatible With Smaller Devices).
 - Add links to socials in logos (ISSUE: Add Social Links).
 - Make the header sticky (ISSUE: Create The First Blog).
 - Create initial website template and add related files (ISSUE: Create Initial Website).
