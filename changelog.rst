@@ -3,6 +3,7 @@
 
 New Features
 ============
+- Make website compatible with very wide screens (ISSUE: Website Adjustments).
 - Make website compatible with various screen sizes (ISSUE: Make Website Compatible With Smaller Devices).
 - Add links to socials in logos (ISSUE: Add Social Links).
 - Make the header sticky (ISSUE: Create The First Blog).
@@ -10,10 +11,13 @@ New Features
 
 Internal Changes
 ================
+- Update tab name for the first blog (ISSUE: Website Adjustments).
+- Remove file extensions from website urls (ISSUE: Website Adjustments).
 - Update book genre and tab names (ISSUE: Add Social Links).
 
 Documentation
 =============
+- Create the second blog (ISSUE: Website Adjustments).
 - Add new author about photo (ISSUE: Add Social Links).
 - Add icon images for eventual links to socials (ISSUE: Create The First Blog).
 - Remove the Reviews Section (ISSUE: Create The First Blog).
@@ -25,4 +29,4 @@ Documentation
 
 Bug Fixes
 =========
--
+- Remove LFS tracking to make Pages show images and add non-LFS images (ISSUE: Website Adjustments).
