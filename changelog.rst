@@ -11,6 +11,7 @@ New Features
 
 Internal Changes
 ================
+- Fix preview for the second blog (ISSUE: Fix Second Blog Preview).
 - Update tab name for the first blog (ISSUE: Website Adjustments).
 - Remove file extensions from website urls (ISSUE: Website Adjustments).
 - Update book genre and tab names (ISSUE: Add Social Links).
