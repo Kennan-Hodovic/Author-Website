@@ -11,6 +11,7 @@
 .. _ISSUE -> Website Adjustments: https://github.com/Kennan-Hodovic/Author-Website/issues/17
 .. _ISSUE -> Fix Second Blog Preview: https://github.com/Kennan-Hodovic/Author-Website/issues/19
 .. _ISSUE -> Create Blog for Review of Lonely Castle In the Mirror: https://github.com/Kennan-Hodovic/Author-Website/issues/21
+.. _ISSUE -> Create Blog for Review of Witch King: https://github.com/Kennan-Hodovic/Author-Website/issues/23
 
 #########
 Changelog
@@ -30,6 +31,7 @@ New Features
 
 Internal Changes
 ================
+- Add link to Lonely Castle in the Mirror (`ISSUE -> Create Blog for Review of Witch King`_).
 - Fix preview for the second blog (`ISSUE -> Fix Second Blog Preview`_).
 - Update tab name for the first blog (`ISSUE -> Website Adjustments`_).
 - Remove file extensions from website urls (`ISSUE -> Website Adjustments`_).
@@ -37,6 +39,7 @@ Internal Changes
 
 Documentation
 =============
+- Write a blog for the book review of Witch King (`ISSUE -> Create Blog for Review of Witch King`_).
 - Write a blog for the book review of Lonely Castle in the Mirror
   (`ISSUE -> Create Blog for Review of Lonely Castle In the Mirror`_).
 - Create the second blog (`ISSUE -> Website Adjustments`_).
